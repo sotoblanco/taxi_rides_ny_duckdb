@@ -4,6 +4,7 @@ This project was created to accompany the PipeRider + dbt workshop on improving 
 
 This workshop project will run you through the following steps:
 
+
 ### PipeRider Walkthrough
 
 - Initialize PipeRider inside a dbt project
